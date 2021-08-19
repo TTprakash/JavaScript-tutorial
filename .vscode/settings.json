@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "files.autoSave": "afterDelay",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "editor.mouseWheelZoom": true,
+    "editor.wordWrap": "on"
+}
